@@ -1,0 +1,15 @@
+{
+	"name": "ADF-Niraj2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5043e362-3706-4d0f-bd2f-4a8ee38bb8c7",
+		"tenantId": "0178f283-b4e8-457c-b255-e0a962559924"
+	}
+}
